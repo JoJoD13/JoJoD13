@@ -6,3 +6,12 @@
 - 😄 Pronouns: Heli/Copter
 - ⚡ Fun fact: I'm Cristiano Ronaldo
 
+Main JoJoD13  
+
+    public class Hello World {
+        
+        public static void main (String[] args) {
+          System.out.printLn ("Hello world");
+          }
+        }
+    
